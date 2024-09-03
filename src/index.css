@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: ;
+}
+
+.fig{
+    border: 1px solid black;
+}
+
+.card-body{
+    border: 1px solid black;
+    height: 180px;
+}
+.i-w{
+    width: 98%;
+    height: 300px;
+    margin: 0 auto;
+    object-fit: cover;
+}
